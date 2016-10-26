@@ -1,7 +1,7 @@
-# webrtc-chat Example
+# Webrtc-chat Example
 
 This application shows how to use use the
-[websocket](https://github.com/gorilla/websocket) package, [SkyRTC-Demo](https://github.com/LingyuCoder/SkyRTC-demo) and 
+[websocket](https://github.com/gorilla/websocket) package, [SkyRTC](https://github.com/LingyuCoder/SkyRTC-demo) and 
 [jQuery](http://jquery.com) to implement a simple web chat application.
 
 ## Running the example
